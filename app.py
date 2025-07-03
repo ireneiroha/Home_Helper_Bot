@@ -5,6 +5,10 @@ import openai
 from spacy.matcher import Matcher
 import spacy
 from helper import homework_helper_bot
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
 
 # Set OpenAI API key
 openai.api_key = os.getenv('OPENAI_API_KEY')

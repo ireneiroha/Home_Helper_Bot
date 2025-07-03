@@ -1,6 +1,5 @@
 # Clear Your Doubts(CYD) Bot
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 
 ## Description
 
@@ -14,7 +13,11 @@ Homework Helper Bot is an interactive chatbot built with Streamlit that assists 
 - [Usage](#usage)
 - [Features](#features)
 - [Contributing](#contributing)
+- Pitch Desk
 - [License](#license)
+
+## Pitch Desk: https://gamma.app/docs/Homework-Helper-Empowering-Parents-Enriching-Learning-idu04yxqo6o1kw8
+## Video: https://drive.google.com/file/d/1yVEIBUePNoVM4S1fNrUkWJgp8BzjOh3P/view?usp=sharing
 
 ## Installation
 
